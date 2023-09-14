@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOSbOPb6vGEnJptu2DEf9OGC2DIgoWBBwQREXi5OV0gPe2Lxe5JjP9ZBmVDngLo/wLFQf7P2/870mD2UIo5EOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karina\\Desktop\\Lenguajes de Programacion\\Programming_Languages\\Functional Paradigm\\Exercise 4\\Exercise 4\\Exercise 4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karina\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

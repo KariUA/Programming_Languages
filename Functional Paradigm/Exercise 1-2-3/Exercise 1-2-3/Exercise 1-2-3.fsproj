@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>Exercise_1</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Shift.fs" />
+        <Compile Include="MapList.fs" />
+        <Compile Include="FilterList.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>

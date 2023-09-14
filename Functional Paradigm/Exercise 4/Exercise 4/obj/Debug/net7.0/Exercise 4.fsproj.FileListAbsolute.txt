@@ -1,0 +1,4 @@
+C:\Users\Karina\Desktop\Lenguajes de Programacion\Programming_Languages\Functional Paradigm\Exercise 4\Exercise 4\obj\Debug\net7.0\Exercise 4.fsproj.AssemblyReference.cache
+C:\Users\Karina\Desktop\Lenguajes de Programacion\Programming_Languages\Functional Paradigm\Exercise 4\Exercise 4\obj\Debug\net7.0\Exercise 4.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\Lenguajes de Programacion\Programming_Languages\Functional Paradigm\Exercise 4\Exercise 4\obj\Debug\net7.0\Exercise 4.AssemblyInfo.fs
+C:\Users\Karina\Desktop\Lenguajes de Programacion\Programming_Languages\Functional Paradigm\Exercise 4\Exercise 4\obj\Debug\net7.0\Exercise 4.fsproj.CoreCompileInputs.cache
