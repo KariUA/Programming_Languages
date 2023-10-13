@@ -29,3 +29,7 @@ rutaCorta(X,Y,Distancia,Ruta):-  %Se busca la ruta mas corta entre X e Y.
     ruta(X,Y,D,R), Lista),     %Se guardan en una lista. 
     min_member([Distancia, Ruta], Lista).  %Se obtiene la ruta mas corta de la lista.
 
+%Prueba -> rutaCorta(i,f,D,R).
+%D = 55,
+%R = [i, b, f].
+

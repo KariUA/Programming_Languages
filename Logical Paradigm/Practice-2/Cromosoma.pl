@@ -3,11 +3,6 @@
 % Autor: Karina Urbina Alvarez                        %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Practica 2 Prolog                                   %
-% Autor: Karina Urbina Alvarez                        %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 %********************************** Ejercicio 1 **********************************
 
 % Implemente una funcion que calcula el porcentaje de exactitud entre el
